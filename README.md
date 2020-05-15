@@ -1,8 +1,10 @@
 # brawl-stars-player-stats
-that program show brawl stars profile status on website. 
+that program show brawl stars profile status on website. once you install it on your server, your customers don't need to get a new api-key.
 please give my link while sharing.
 
 # setup
+
+required modules: requests, flask
 ```python
 Line 9: "authorization":"Bearer <token>"
 ```
