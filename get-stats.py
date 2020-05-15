@@ -22,7 +22,7 @@ def get_data(user_id):
 			"user_3_victories":data["3vs3Victories"]
 
 			}
-print(get_data("8RUJGYL82"))
+# my id: 8RUJGYL82
 app = Flask(__name__)
 
 @app.route("/")
