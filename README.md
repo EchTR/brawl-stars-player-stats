@@ -13,4 +13,4 @@ you should put here your brawl stars api token. (you can get from here => https:
 <br>
 
 # updates
-1 -> 
+1 -> https://github.com/EchTR/brawl-stars-player-stats/commit/3c357317a873f3eebfe95ca5cfeb05b98160b3c6 
