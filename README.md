@@ -9,3 +9,8 @@ required modules: requests, flask
 Line 9: "authorization":"Bearer <token>"
 ```
 you should put here your brawl stars api token. (you can get from here => https://developer.brawlstars.com/#/)
+
+<br>
+
+# updates
+1 -> 
