@@ -60,10 +60,12 @@ if __name__ == "__main__":
 	app.run()
 	
 """
-k_tag = get_data(u_id)["user_tag"][1:],
+1/k_tag = get_data(u_id)["user_tag"][:]
+2/k_tag = get_data(u_id)["user_tag"][1:],
 				k_name = get_data(u_id)["user_name"],
 				k_color = get_data(u_id)["user_color"],
-				k_club = get_data(u_id)["user_club"],
+				1/k_club = get_data(u_id)["user_club"],
+				2/k_club = k_c,
 				k_trophies = get_data(u_id)["user_trophies"],
 				k_highest = get_data(u_id)["user_highest_trophies"],
 				k_level = get_data(u_id)["user_level"],
