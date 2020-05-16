@@ -60,6 +60,20 @@ if __name__ == "__main__":
 	app.run()
 	
 """
+I am writing this comment line so that the python files are in the majority. it has no function. its purpose is not to take notes.
+
+1/k_tag = get_data(u_id)["user_tag"][:]
+2/k_tag = get_data(u_id)["user_tag"][1:],
+				k_name = get_data(u_id)["user_name"],
+				k_color = get_data(u_id)["user_color"],
+				1/k_club = get_data(u_id)["user_club"],
+				2/k_club = k_c,
+				k_trophies = get_data(u_id)["user_trophies"],
+				k_highest = get_data(u_id)["user_highest_trophies"],
+				k_level = get_data(u_id)["user_level"],
+				k_solo = get_data(u_id)["user_s_victories"],
+				k_duo = get_data(u_id)["user_d_victories"],
+				k_3 = get_data(u_id)["user_3_victories"]
 1/k_tag = get_data(u_id)["user_tag"][:]
 2/k_tag = get_data(u_id)["user_tag"][1:],
 				k_name = get_data(u_id)["user_name"],
