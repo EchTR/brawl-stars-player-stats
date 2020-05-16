@@ -16,4 +16,4 @@ You should put here your brawl stars api token. (You can get from here => https:
 
 [16.05.2020] 1.1 -> https://github.com/EchTR/brawl-stars-player-stats/commit/49bd2b86c6ac4227aaabd1fdd62a7815fe6ad72b
 <br>
-[16.05.2020] 1 -> https://github.com/EchTR/brawl-stars-player-stats/commit/3c357317a873f3eebfe95ca5cfeb05b98160b3c6 
+[16.05.2020] 1.0 -> https://github.com/EchTR/brawl-stars-player-stats/commit/3c357317a873f3eebfe95ca5cfeb05b98160b3c6 
