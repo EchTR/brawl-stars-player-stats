@@ -6,7 +6,7 @@ import os
 def get_data(user_id):
 	header = {
 		"Accept":"application/json",
-		"authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiIsImtpZCI6IjI4YTMxOGY3LTAwMDAtYTFlYi03ZmExLTJjNzQzM2M2Y2NhNSJ9.eyJpc3MiOiJzdXBlcmNlbGwiLCJhdWQiOiJzdXBlcmNlbGw6Z2FtZWFwaSIsImp0aSI6IjZjNjdkMmU0LWJmNmItNDk5NS1hY2Y0LTFkNDk0MTIxNTJjNiIsImlhdCI6MTU4OTU1MzY0MSwic3ViIjoiZGV2ZWxvcGVyLzM2NTk5OWUyLTY2OTMtYTFkMy1hYjEyLWY3Y2Q2YWMyNmYwZiIsInNjb3BlcyI6WyJicmF3bHN0YXJzIl0sImxpbWl0cyI6W3sidGllciI6ImRldmVsb3Blci9zaWx2ZXIiLCJ0eXBlIjoidGhyb3R0bGluZyJ9LHsiY2lkcnMiOlsiMTg4LjMuMTcwLjE2MCJdLCJ0eXBlIjoiY2xpZW50In1dfQ.FnspHE91cIDyuZ-xv9yv5bqwIVXal2VktWFXT8P4489TfbjrMBb-nncaAml4PzbQXxFDOvTQtjz3rgWZwf_IzQ" 
+		"authorization":"Bearer <token>" 
 	}
 	bs = requests.get("https://api.brawlstars.com/v1/players/%{}".format(user_id),headers=header)
 	data = bs.json()
