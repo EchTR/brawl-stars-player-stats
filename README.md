@@ -1,5 +1,5 @@
 # brawl-stars-player-stats
-That program show brawl stars profile status on website. Pnce you install it on your server, your customers don't need to get a new api-key.
+That program show brawl stars profile status on website. Once you install it on your server, your customers don't need to get a new api-key.
 Please give my link while sharing.
 
 # Setup
